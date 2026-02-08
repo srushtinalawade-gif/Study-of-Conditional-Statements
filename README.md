@@ -1,4 +1,7 @@
 # Study-of-Conditional-Statements
+## Name- Srushti J. Nalawade 
+## PRN- 25070123157 
+## Batch- A1
 ## Aim:
 To investigate the mechanics of Python’s branching statements and deploy various decision-making frameworks to control program execution.
 
